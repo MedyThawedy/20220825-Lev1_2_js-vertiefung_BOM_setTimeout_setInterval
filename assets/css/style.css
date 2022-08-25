@@ -1,0 +1,40 @@
+body {
+    background-color: #e77172;
+}
+
+button {
+    background-color: #e77172;
+    color: #fff;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #fff;
+    margin-left: 20px;
+    cursor: pointer;
+    width: 124px;
+    align-self: center;
+}
+
+button:hover {
+    background-color: #fff;
+    color: #e77172;
+}
+
+.style {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 1px solid #fff;
+    height: 275px;
+    border-radius: 8px;
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.zeit {
+    font-size: 8rem;
+    color: #fff;
+    text-align: center;
+    margin-top: 3vh;
+}
